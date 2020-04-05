@@ -408,3 +408,44 @@ footer a:hover {
 .p-9 .title::after {
     background-color: #229df9;
 }
+
+#menu-4 {  background: rgb(253, 255, 253);  }
+
+.p-10 h2 {
+    background: linear-gradient(to right, rgb(66, 151, 60), rgb(200, 254, 148)); font-size: 1.9rem;
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'Kaushan Script', cursive;
+}
+
+.p-10 .title, .p-11 .title, .p-12 .title {
+    font-family: 'Kalam', cursive;
+    font-size: 1.1rem;
+}
+
+.p-10 ul, .p-11 ul, .p-12 ul {
+    font-family: 'Kalam', cursive;
+    font-size: 0.9rem;
+}
+
+.p-10 .title::before {
+    background: linear-gradient(to right, #42973c, #bfff7e);
+}
+
+.p-10 .title::after {
+    background: linear-gradient(to right, #bfff7e, #42973c);
+}
+
+.p-11 .title::before {
+    background: linear-gradient(to right, #42973c, #bfff7e);
+}
+
+.p-11 .title::after {
+    background: linear-gradient(to right, #bfff7e, #42973c);
+}
+
+.p-12 .title::before {
+    background: linear-gradient(to right, #42973c, #bfff7e);
+}
+
+.p-12 .title::after {
+    background: linear-gradient(to right, #bfff7e, #42973c);
+}
