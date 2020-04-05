@@ -249,3 +249,26 @@ footer a:hover {
 
 .title::before { margin-right: 40px; }
 .title::after { margin-left: 40px; }
+
+.effet {
+    padding: 5px 10px;
+    position: relative;
+    font-weight: 500;
+}
+
+.effet::after {
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 2px;
+    left: 0%;
+    position: absolute;
+    background: currentColor;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+    width: 0;
+}
+
+.effet:hover::after {
+    width: 100%; 
+    left: 0; 
+}
