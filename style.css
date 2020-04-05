@@ -195,3 +195,57 @@ footer a:hover {
     animation: wave 1.3s linear infinite;
     animation-delay: -0.9s;
 }
+
+.container-menu {
+    flex: 1;
+    flex-direction: column;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-bottom: 120px;
+}
+
+.card {
+    padding: 45px 60px;
+    width: 600px;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: -6px -6px 20px rgba(0,0,0,0.1), 6px 6px 20px rgba(0,0,0,.2);
+}
+
+.card > i {
+    font-size: 3.5em;
+}
+
+.card li {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.card ul {
+    list-style: none;
+    padding: 0;
+}
+
+.card span {
+    float: right;
+}
+.card h2 {
+    margin-top: 10px;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.title::before, .title::after {
+    content: "";
+    flex-grow: 1;
+    background-color: currentColor;
+    height: 3px;
+}
+
+.title::before { margin-right: 40px; }
+.title::after { margin-left: 40px; }
