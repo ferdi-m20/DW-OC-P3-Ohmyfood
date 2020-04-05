@@ -449,3 +449,62 @@ footer a:hover {
 .p-12 .title::after {
     background: linear-gradient(to right, #bfff7e, #42973c);
 }
+
+@media all and (max-width: 768px)
+{
+    h1 a {
+        letter-spacing: -3px;
+        font-size: 40px;
+    }
+
+    .card {
+        width: 85%;
+        padding: 45px 30px;
+    }
+
+    .card li {
+        text-align: center;
+    }
+
+    .card li span {
+        float: inherit;
+        display: block;   
+    }
+
+    .title::after {
+        margin-left: 10px;
+    }
+
+    .title::before {
+        margin-right: 10px;
+    }
+
+    #menus {
+        grid-template-columns: repeat(1, 2fr);
+    }
+
+    .container {
+        justify-content: flex-start !important;
+    }
+
+    .soon a {
+    font-size: 22px;
+    padding: 9px 5px 9px 25px;
+    border-radius: 8px;
+    width: 200px;
+    }
+
+    footer {
+        font-size: 18px;
+    }
+
+    footer a:nth-child(1) {
+        margin-left: 10px;
+        height: auto;
+    }
+
+    footer a:nth-child(2) {
+        margin-right: 10px;
+        height: auto;
+    }
+}
