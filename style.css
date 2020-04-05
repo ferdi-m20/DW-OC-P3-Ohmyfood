@@ -367,3 +367,44 @@ footer a:hover {
 .p-6 .title::after {
     background-color: #6e4ccc;
 }
+
+#menu-3 { background-color: rgb(249, 249, 249); }
+
+.p-7 h2 {
+    background: linear-gradient(to right, rgb(4, 49, 223), rgb(8, 135, 251)); font-size: 2.1rem;
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'Dancing Script', cursive; 
+}
+
+.p-7 .title, .p-8 .title, .p-9 .title {
+    font-family: 'Kalam', cursive;
+    font-size: 1.1rem;
+}
+
+.p-7 ul, .p-8 ul, .p-9 ul {
+    font-family: 'Kalam', cursive;
+    font-size: 0.9rem;
+}
+
+.p-7 .title::before {
+    background-color: #0228dd;
+}
+
+.p-7 .title::after {
+    background-color: #0228dd;
+}
+
+.p-8 .title::before {
+    background-color: #0670f3;
+}
+
+.p-8 .title::after {
+    background-color: #0670f3;
+} 
+
+.p-9 .title::before {
+    background-color: #229df9;
+}
+
+.p-9 .title::after {
+    background-color: #229df9;
+}
