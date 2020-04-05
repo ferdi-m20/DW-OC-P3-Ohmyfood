@@ -314,3 +314,56 @@ footer a:hover {
 .end i {
     margin-right: 10px;
 }
+
+#menu-2 { background-color: rgb(255, 245, 254); }
+
+.p-4 h2 {
+    background: linear-gradient(to right, rgb(216, 133, 46), rgb(144, 91, 253)); font-size: 1.4rem;
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'Croissant One', cursive; 
+}
+
+.p-4 .title, .p-5 .title, .p-6 .title {
+    font-family: 'Gelasio', serif; 
+    font-size: 1.1rem;
+}
+
+.p-4 ul, .p-5 ul, .p-6 ul {
+    font-family: 'Gelasio', serif; 
+    font-size: 0.9rem;
+}
+
+.p-4 ul {
+    color: #c67412;
+}
+
+.p-4 .title::before {
+    background-color: #c67412;
+}
+
+.p-4 .title::after {
+    background-color: #c67412;
+}
+
+.p-5 ul{
+    color: #a56799;
+}
+
+.p-5 .title::before {
+    background-color: #a56799;
+}
+
+.p-5 .title::after {
+    background-color: #a56799;
+}
+
+.p-6 ul {
+    color: #6e4ccc;
+}
+
+.p-6 .title::before {
+    background-color: #6e4ccc;
+}
+
+.p-6 .title::after {
+    background-color: #6e4ccc;
+}
