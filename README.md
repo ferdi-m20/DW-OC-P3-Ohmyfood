@@ -8,12 +8,12 @@ You don't need any installation, just click on "[Ohmyfood](https://ferdi-m20.git
 
 ## Built With
 
--   [Visual Studio Code](https://code.visualstudio.com/) - Text editor
--   [Font Awesome](https://fontawesome.com/) - Icon library
--   [Google Font](https://fonts.google.com/) - Font hosting service
--   [GitHub](https://github.com/) - Version control tool
--   [GitHub Pages](https://pages.github.com/) - Hosting tool
--   [W3C Validator](https://validator.w3.org/) - Tools for detecting errors in HTML and CSS code
+- [Visual Studio Code](https://code.visualstudio.com/) - Text editor
+- [Font Awesome](https://fontawesome.com/) - Icon library
+- [Google Font](https://fonts.google.com/) - Font hosting service
+- [GitHub](https://github.com/) - Version control tool
+- [GitHub Pages](https://pages.github.com/) - Hosting tool
+- [W3C Validator](https://validator.w3.org/) - Tools for detecting errors in HTML and CSS code
 
 ## More Projects
 
