@@ -4,13 +4,16 @@ An online meal ordering service using HTML and CSS
 
 ## Installation
 
-You don't need any installation, just click on "[Ohmyfood](https://ferdi-m20.github.io/DW-OC-P3-Ohmyfood/)" and it will open in your browser.
+You don't need any installation, just click on "[Ohmyfood](https://ferdi-m20.github.io/DW-OC-P3-Ohmyfood/)" and it will open in your browser
 
-## Tasks
+## Built With:
 
-    - Use of HTML and CSS
-    - Responsive Website
-    - CSS Animations
+-   [Visual Studio Code](https://code.visualstudio.com/) - Text editor
+-   [Font Awesome](https://fontawesome.com/) - Icon library
+-   [Google Font](https://fonts.google.com/) - Font hosting service
+-   [GitHub](https://github.com/) - Version control tool
+-   [GitHub Pages](https://pages.github.com/) - Hosting tool
+-   [W3C Validator](https://validator.w3.org/) - Tools for detecting errors in HTML and CSS code
 
 ## More Projects
 
