@@ -1,6 +1,6 @@
 # Ohmyfood
 
-A website using some animations with CSS
+An online meal ordering service using HTML and CSS
 
 ## Installation
 
