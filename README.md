@@ -1,6 +1,6 @@
 # Ohmyfood
 
-My second project in HTML & CSS (Openclassrooms Course). A website using some animations with CSS.
+A website using some animations with CSS
 
 ## Installation
 
